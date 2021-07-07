@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Full Stack Dev
+- 🌱 I’m currently learning Front-end Developer
 - 📫 How to reach me: leetusoanh@gmail.com
 
 ### Top Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whiwf)](https://github.com/anuraghazra/github-readme-stats)
+
+### Stats Card:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whiwf&show_icons=true&theme=tokyonight)
