@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: leetusoanh@gmail.com
 
 ### Top Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whiwf)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whiwf&hide=css)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Stats Card:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whiwf&show_icons=true&theme=tokyonight)
