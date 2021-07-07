@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning Full Stack Dev
+- 📫 How to reach me: leetusoanh@gmail.com
+
+### Top Languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whiwf)](https://github.com/anuraghazra/github-readme-stats)
