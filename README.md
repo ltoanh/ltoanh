@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Talking about Personal Stuffs:
 - 🌱 I’m currently learning Front-end Developer
-- 📫 How to reach me: leetusoanh@gmail.com
+- 📫 How to reach me: <a href="fb.com/whiwf" target="_blank">@whiwf</a>
 
 ### Top Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whiwf&layout=compact&hide=css)](https://github.com/anuraghazra/github-readme-stats)
