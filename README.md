@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 
 ### Talking about Personal Stuffs:
 - 🌱 I’m currently learning Front-end Developer
-- 📫 How to reach me: <a href="https://www.facebook.com/whiwf/" target="_blank">@whiwf</a>
+- 📫 How to reach me: <br> 
+<a href="https://www.facebook.com/whiwf/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png"></a>
 
 ### Top Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whiwf&layout=compact&hide=css)](https://github.com/anuraghazra/github-readme-stats)
