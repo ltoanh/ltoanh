@@ -16,7 +16,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <span>- Languages:</span>
 <ul>
-  <li>FE: HTML5, CSS3, Bootstrap, Scss, TailwindCss, JavaScript, Reactjs</li>
+  <li>FE: HTML5, CSS3, Bootstrap 4, Scss, TailwindCss, JavaScript, Reactjs</li>
   <li>BE: Firebase</li>
 </ul>
 <span>- Tools:</span>
