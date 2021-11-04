@@ -20,26 +20,32 @@
   <li>BE: Firebase</li>
 </ul>
 <span>- Tools:</span>
-Photoshop, Figma, Postman
+Photoshop, Figma, Postman, Wordpress
 <p align="left">
   <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+    src="https://cdn-icons-png.flaticon.com/512/174/174854.png"
     alt="html5"
     width="40"
     height="40"
   />
   <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+    src="https://cdn-icons-png.flaticon.com/512/732/732190.png"
     alt="css3"
     width="40"
     height="40"
   />
   <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-    alt="bootstrap"
+    src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png"
+    alt="bootstrap4"
     width="40"
     height="40"
   />
+  <img
+    src="https://cdn-icons-png.flaticon.com/512/919/919831.png"
+    alt="scss"
+    width="40"
+    height="40"
+  />   
   <img
     src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
     alt="tailwind"
@@ -79,6 +85,12 @@ Photoshop, Figma, Postman
   <img
     src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
     alt="postman"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://cdn-icons-png.flaticon.com/512/168/168810.png"
+    alt="wordpress"
     width="40"
     height="40"
   />
