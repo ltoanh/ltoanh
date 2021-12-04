@@ -17,7 +17,7 @@
 <span>- Languages:</span>
 <ul>
   <li>FE: HTML5, CSS3, Bootstrap 4, Scss, TailwindCss, JavaScript, Reactjs</li>
-  <li>BE: Firebase</li>
+  <li>BE: Firebase, PHP7</li>
 </ul>
 <span>- Tools:</span>
 Photoshop, Figma, Postman, Wordpress
@@ -41,7 +41,7 @@ Photoshop, Figma, Postman, Wordpress
     height="40"
   />
   <img
-    src="https://cdn-icons-png.flaticon.com/512/919/919831.png"
+    src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png"
     alt="scss"
     width="40"
     height="40"
@@ -67,6 +67,12 @@ Photoshop, Figma, Postman, Wordpress
   <img
     src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
     alt="firebase"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png"
+    alt="php"
     width="40"
     height="40"
   />
