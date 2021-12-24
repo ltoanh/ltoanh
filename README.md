@@ -22,4 +22,4 @@ I'm a pupil...
 - Language: HTML5, CSS3, Bootstrap 4, Scss, TailwindCss, JavaScript, Reactjs, PHP
 - Tool: Firebase, Wordpress, Postman, MySQL, Figma, Photoshop
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whiwf&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
