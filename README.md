@@ -8,7 +8,7 @@ I'm a pupil...
 
 ## Other Common Github Profile Sections
 
-🧠 I'm currently learning **Front-end developer**
+🌱 I'm currently learning **Front-end developer**
 
 👯‍♀️ I'm looking to collaborate on everyone who want to become full-stack developer
 
