@@ -3,7 +3,7 @@
 ## 🚀 About Me
 a pupil...
 
-![GitHub metrics](https://metrics.lecoq.io/whiwf)  
+<!-- ![GitHub metrics](https://metrics.lecoq.io/whiwf)   -->
 
 ## Other Common Github Profile Sections
 👩‍🎓 I'm 4th student at Posts and Telecommunications Institute of Technology (PTIT), Vietnam
