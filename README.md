@@ -16,8 +16,6 @@ a pupil...
 
 📫 How to reach me: **leetusoanh@gmail.com**
 
-
-
 ## 🛠 Skills
 - Language: HTML5, CSS3, Bootstrap 4, Scss, TailwindCss, JavaScript, Reactjs, PHP
 - Tool: Firebase, Wordpress, Postman, MySQL, Figma, Photoshop
