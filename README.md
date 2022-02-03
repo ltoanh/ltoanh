@@ -1,12 +1,12 @@
-
-# Hi, I'm Le, Tu Oanh! 👋
-
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFC83D&lines=Hi%2C+I'm+Le%2C+Tu+Oanh+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ## 🚀 About Me
-I'm a pupil...
+a pupil...
 
+![GitHub metrics](https://metrics.lecoq.io/whiwf)  
 
 ## Other Common Github Profile Sections
+👩‍🎓 I'm student at Posts and Telecommunications Institute of Technology (PTIT), Vietnam
 
 🌱 I'm currently learning **Front-end developer**
 
