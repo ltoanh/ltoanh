@@ -22,10 +22,6 @@ I'm a pupil...
 - Language: HTML5, CSS3, Bootstrap 4, Scss, TailwindCss, JavaScript, Reactjs, PHP
 - Tool: Firebase, Wordpress, Postman, MySQL, Figma, Photoshop
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whiwf&layout=compact&theme=radical&hide=css)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whiwf&show_icons=true&theme=radical)
-
 ## ⏲ Coding time
 <!--START_SECTION:waka-->
 ```text
@@ -34,6 +30,8 @@ No Activity tracked this Week
 <!--END_SECTION:waka-->
 
 ## ⚡ Recent Activity
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whiwf&layout=compact&theme=radical&hide=css)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/whiwf/whiwf/pull/1) in [whiwf/whiwf](https://github.com/whiwf/whiwf)
 2. 💪 Opened PR [#1](https://github.com/whiwf/whiwf/pull/1) in [whiwf/whiwf](https://github.com/whiwf/whiwf)
