@@ -26,9 +26,12 @@ I'm a pupil...
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whiwf&show_icons=true&theme=radical)
 
-## ⏲
+## ⏲ Coding time
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
+
+## ⚡ Recent Activity
+<!--START_SECTION:activity-->
