@@ -20,7 +20,7 @@ a pupil...
 - Language: HTML5, CSS3, Bootstrap 4, Scss, TailwindCss, JavaScript, Reactjs, PHP
 - Tool: Firebase, Wordpress, Postman, MySQL, Figma, Photoshop
 
-## ⏲ Coding time
+## ⏲ Coding time over the last 7 days
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2045%20mins-blue)
 
