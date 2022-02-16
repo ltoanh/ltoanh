@@ -99,7 +99,10 @@ C++                      2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ## ⚡ Recent Activity
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whiwf&layout=compact&theme=radical&hide=css)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whiwf&layout=compact&theme=radical&hide=css)](https://github.com/anuraghazra/github-readme-stats)
+ -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whiwf&theme=radical" alt="whiwf" /></p>
+
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/whiwf/whiwf/pull/1) in [whiwf/whiwf](https://github.com/whiwf/whiwf)
