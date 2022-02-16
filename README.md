@@ -10,7 +10,7 @@ a pupil...
 
 🌱 I'm currently learning **Front-end developer**
 
-👯‍♀️ I'm looking to collaborate on everyone who want to become full-stack developer
+👯‍♀️ I'm looking to collaborate with everyone who want to become full-stack developer
 
 💬 Ask me about everything...
 
