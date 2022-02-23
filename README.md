@@ -106,9 +106,9 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/whiwf/whiwf/pull/1) in [whiwf/whiwf](https://github.com/whiwf/whiwf)
-2. 💪 Opened PR [#1](https://github.com/whiwf/whiwf/pull/1) in [whiwf/whiwf](https://github.com/whiwf/whiwf)
-3. 🎉 Merged PR [#7](https://github.com/lthiv/BTL_HTTT/pull/7) in [lthiv/BTL_HTTT](https://github.com/lthiv/BTL_HTTT)
-4. 💪 Opened PR [#7](https://github.com/lthiv/BTL_HTTT/pull/7) in [lthiv/BTL_HTTT](https://github.com/lthiv/BTL_HTTT)
-5. 🎉 Merged PR [#6](https://github.com/lthiv/BTL_HTTT/pull/6) in [lthiv/BTL_HTTT](https://github.com/lthiv/BTL_HTTT)
+1. 🎉 Merged PR [#40](https://github.com/whiwf/fb-clone/pull/40) in [whiwf/fb-clone](https://github.com/whiwf/fb-clone)
+2. 💪 Opened PR [#40](https://github.com/whiwf/fb-clone/pull/40) in [whiwf/fb-clone](https://github.com/whiwf/fb-clone)
+3. 🎉 Merged PR [#1](https://github.com/whiwf/whiwf/pull/1) in [whiwf/whiwf](https://github.com/whiwf/whiwf)
+4. 💪 Opened PR [#1](https://github.com/whiwf/whiwf/pull/1) in [whiwf/whiwf](https://github.com/whiwf/whiwf)
+5. 🎉 Merged PR [#7](https://github.com/lthiv/BTL_HTTT/pull/7) in [lthiv/BTL_HTTT](https://github.com/lthiv/BTL_HTTT)
 <!--END_SECTION:activity-->
