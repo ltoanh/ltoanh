@@ -106,9 +106,9 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#45](https://github.com/whiwf/fb-clone/pull/45) in [whiwf/fb-clone](https://github.com/whiwf/fb-clone)
-2. 💪 Opened PR [#45](https://github.com/whiwf/fb-clone/pull/45) in [whiwf/fb-clone](https://github.com/whiwf/fb-clone)
-3. 🎉 Merged PR [#44](https://github.com/whiwf/fb-clone/pull/44) in [whiwf/fb-clone](https://github.com/whiwf/fb-clone)
-4. 💪 Opened PR [#44](https://github.com/whiwf/fb-clone/pull/44) in [whiwf/fb-clone](https://github.com/whiwf/fb-clone)
-5. 🎉 Merged PR [#43](https://github.com/whiwf/fb-clone/pull/43) in [whiwf/fb-clone](https://github.com/whiwf/fb-clone)
+1. ❗️ Closed issue [#18](https://github.com/whiwf/moviee/issues/18) in [whiwf/moviee](https://github.com/whiwf/moviee)
+2. 🎉 Merged PR [#19](https://github.com/whiwf/moviee/pull/19) in [whiwf/moviee](https://github.com/whiwf/moviee)
+3. 💪 Opened PR [#19](https://github.com/whiwf/moviee/pull/19) in [whiwf/moviee](https://github.com/whiwf/moviee)
+4. ❗️ Opened issue [#18](https://github.com/whiwf/moviee/issues/18) in [whiwf/moviee](https://github.com/whiwf/moviee)
+5. 🎉 Merged PR [#17](https://github.com/whiwf/moviee/pull/17) in [whiwf/moviee](https://github.com/whiwf/moviee)
 <!--END_SECTION:activity-->
