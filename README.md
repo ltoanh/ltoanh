@@ -14,11 +14,11 @@ a pupil...
 
 💬 Ask me about everything...
 
-📫 How to reach me: **leetusoanh@gmail.com**
+📫 How to reach me: **letuoanh111@gmail.com**
 
 ## 🛠 Skills
 - Language: HTML5, CSS3, Bootstrap 4, Scss, TailwindCss, JavaScript, Reactjs, PHP
-- Tool: Firebase, Wordpress, Postman, MySQL, Figma, Photoshop
+- Tool: Firebase, Wordpress, Postman, Strapi, MySQL, Figma, Photoshop
 
 ## ⏲ Coding time over the last 7 days
 <!--START_SECTION:waka-->
