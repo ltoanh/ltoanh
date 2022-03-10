@@ -106,9 +106,9 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#62](https://github.com/whiwf/e-restaurant/pull/62) in [whiwf/e-restaurant](https://github.com/whiwf/e-restaurant)
-2. 💪 Opened PR [#62](https://github.com/whiwf/e-restaurant/pull/62) in [whiwf/e-restaurant](https://github.com/whiwf/e-restaurant)
-3. 🎉 Merged PR [#22](https://github.com/whiwf/moviee/pull/22) in [whiwf/moviee](https://github.com/whiwf/moviee)
-4. 💪 Opened PR [#22](https://github.com/whiwf/moviee/pull/22) in [whiwf/moviee](https://github.com/whiwf/moviee)
-5. 🎉 Merged PR [#21](https://github.com/whiwf/moviee/pull/21) in [whiwf/moviee](https://github.com/whiwf/moviee)
+1. 🎉 Merged PR [#63](https://github.com/whiwf/e-restaurant/pull/63) in [whiwf/e-restaurant](https://github.com/whiwf/e-restaurant)
+2. 💪 Opened PR [#63](https://github.com/whiwf/e-restaurant/pull/63) in [whiwf/e-restaurant](https://github.com/whiwf/e-restaurant)
+3. 🎉 Merged PR [#62](https://github.com/whiwf/e-restaurant/pull/62) in [whiwf/e-restaurant](https://github.com/whiwf/e-restaurant)
+4. 💪 Opened PR [#62](https://github.com/whiwf/e-restaurant/pull/62) in [whiwf/e-restaurant](https://github.com/whiwf/e-restaurant)
+5. 🎉 Merged PR [#22](https://github.com/whiwf/moviee/pull/22) in [whiwf/moviee](https://github.com/whiwf/moviee)
 <!--END_SECTION:activity-->
