@@ -6,7 +6,7 @@ a pupil...
 <!-- ![GitHub metrics](https://metrics.lecoq.io/whiwf)   -->
 
 ## Other Common Github Profile Sections
-👩‍🎓 I'm 4nd-yeard at Posts and Telecommunications Institute of Technology (PTIT), Vietnam
+👩‍🎓 I'm 4nd-yeard at Posts and Telecommunications Institute of Technology (PTIT HaNoi), Vietnam
 
 🌱 I'm currently learning **Front-end developer**
 
