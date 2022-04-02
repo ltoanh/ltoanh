@@ -7,8 +7,6 @@ a pupil...
 
 ## Other Common Github Profile Sections
 
-👩‍💻 I'm in training Fresher Web at MISA JSC
-
 👩‍🎓 I'm 4nd-yeard at Posts and Telecommunications Institute of Technology (PTIT Hanoi), Vietnam
 
 🌱 I'm currently learning **Front-end developer**
