@@ -21,13 +21,14 @@ a pupil...
 - Language: HTML5, CSS3, Bootstrap 4, Scss, TailwindCss, JavaScript, Reactjs, PHP
 - Tool: Firebase, Wordpress, Postman, Strapi, MySQL, Figma, Photoshop
 
-<!-- ## ⏲ Coding time over the last 7 days
-waka section -->
+## ⏲ Coding time over the last 7 days
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## ⚡ Recent Activity
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whiwf&layout=compact&theme=radical&hide=css)](https://github.com/anuraghazra/github-readme-stats)
  -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oanhlt111&theme=radical" alt="oanhlt111" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oanhlt111&theme=radical" alt="oanhlt111" /></p> -->
 
 
 <!--START_SECTION:activity-->
