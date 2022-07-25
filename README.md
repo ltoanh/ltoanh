@@ -70,13 +70,14 @@ Sunday       8 commits      ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       8 mins              ███████████████████████░░   92.97% 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   7.03%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Visual Studio            9 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  9 mins              █████████████████████████   100.0%
 
 ```
 
@@ -93,7 +94,7 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2022 01:13:00 UTC
+ Last Updated on 25/07/2022 01:06:46 UTC
 <!--END_SECTION:waka-->
 
 ## ⚡ Recent Activity
