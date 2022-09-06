@@ -23,7 +23,7 @@ a pupil...
 
 ## ⏲ Coding time over the last 7 days
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-637%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -70,13 +70,18 @@ Sunday       9 commits      ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       49 mins             ██████████████████████░░░   90.92% 
+Vue.js                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.94% 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.25% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.47% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.42%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Visual Studio            50 mins             ███████████████████████░░   92.59% 
+VS Code                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   7.41%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  54 mins             █████████████████████████   100.0%
 
 ```
 
@@ -93,7 +98,7 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/09/2022 01:22:22 UTC
+ Last Updated on 06/09/2022 01:19:52 UTC
 <!--END_SECTION:waka-->
 
 ## ⚡ Recent Activity
