@@ -9,7 +9,7 @@ a pupil...
 
 👩‍🎓 I'm final year student at Posts and Telecommunications Institute of Technology (PTIT Hanoi), Vietnam
 
-🌱 I'm currently learning **Front-end developer**
+🌱 I'm currently learning **Backend developer**
 
 👯‍♀️ I'm looking to collaborate with everyone who want to become full-stack developer
 
@@ -18,8 +18,8 @@ a pupil...
 📫 How to reach me: **letuoanh111@gmail.com**
 
 ## 🛠 Skills
-- Language: HTML5, CSS3, Bootstrap 4, Scss, TailwindCss, JavaScript, Reactjs, PHP
-- Tool: Firebase, Wordpress, Postman, Strapi, MySQL, Figma, Photoshop
+- Language: HTML5, CSS3, Bootstrap 4, Scss, TailwindCss, JavaScript, Reactjs, PHP, C#
+- Tool: Firebase, Wordpress, Postman, Strapi, MySQL, MongoDb, Figma, Photoshop
 
 ## ⏲ Coding time over the last 7 days
 <!--START_SECTION:waka-->
