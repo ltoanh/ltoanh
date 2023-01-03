@@ -25,21 +25,21 @@ a pupil...
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-679%20hrs%208%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 0 Contributions in the Year 2023
  > 
-> 📦 388.0 kB Used in GitHub's Storage 
+> 📦 374.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 17 Public Repositories 
+> 📜 15 Public Repositories 
  > 
-> 🔑 19 Private Repositories  
+> 🔑 20 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -83,17 +83,17 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               15 repos            ██████████░░░░░░░░░░░░░░░   42.86% 
-Java                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.57% 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.57% 
-C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.71%
+JavaScript               15 repos            ███████████░░░░░░░░░░░░░░   44.12% 
+Java                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.71% 
+CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.82% 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.82% 
+C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
 
 ```
 
 
 
- Last Updated on 01/01/2023 01:02:25 UTC
+ Last Updated on 03/01/2023 00:53:51 UTC
 <!--END_SECTION:waka-->
 
 ## ⚡ Recent Activity
