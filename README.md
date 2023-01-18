@@ -33,7 +33,7 @@ a pupil...
 
 > 🏆 0 Contributions in the Year 2023
  > 
-> 📦 374.9 kB Used in GitHub's Storage 
+> 📦 374.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -93,7 +93,7 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/01/2023 00:56:02 UTC
+ Last Updated on 18/01/2023 00:59:19 UTC
 <!--END_SECTION:waka-->
 
 ## ⚡ Recent Activity
