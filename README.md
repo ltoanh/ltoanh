@@ -23,7 +23,7 @@ a pupil...
 
 ## ⏲ Coding time over the last 7 days
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-679%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-679%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
@@ -94,7 +94,7 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/01/2023 00:57:02 UTC
+ Last Updated on 22/01/2023 00:59:26 UTC
 <!--END_SECTION:waka-->
 
 ## ⚡ Recent Activity
