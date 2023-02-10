@@ -70,13 +70,13 @@ Sunday          18 commits       ██████░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 mins              █████████████████████████   100.00 % 
 
 ```
 
@@ -93,7 +93,7 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/02/2023 00:57:17 UTC
+ Last Updated on 10/02/2023 01:00:32 UTC
 <!--END_SECTION:waka-->
 
 ## ⚡ Recent Activity
