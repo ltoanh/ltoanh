@@ -70,14 +70,13 @@ Sunday          18 commits       ██████░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-C#                       14 mins             ████████████████████████░   97.44 % 
-Binary                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Visual Studio            14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 ```
 
@@ -94,7 +93,7 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/02/2023 00:58:24 UTC
+ Last Updated on 20/02/2023 00:59:12 UTC
 <!--END_SECTION:waka-->
 
 ## ⚡ Recent Activity
