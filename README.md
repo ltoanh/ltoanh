@@ -68,13 +68,16 @@ Sunday                   18 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     12 mins             ████████████░░░░░░░░░░░░░   47.80 % 
+Vue.js                   11 mins             ████████████░░░░░░░░░░░░░   46.43 % 
+JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  25 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  25 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -90,7 +93,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/02/2023 00:58:04 UTC
+ Last Updated on 26/02/2023 01:02:59 UTC
 <!--END_SECTION:waka-->
 
 ## ⚡ Recent Activity
