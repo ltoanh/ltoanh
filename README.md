@@ -18,8 +18,8 @@ a pupil...
 📫 How to reach me: **letuoanh111@gmail.com**
 
 ## 🛠 Skills
-- Language: HTML5, CSS3, Bootstrap 4, Scss, TailwindCss, JavaScript, Reactjs, PHP, C#
-- Tool: Firebase, Wordpress, Postman, Strapi, MySQL, MongoDb, Figma, Photoshop
+- Language: HTML5, CSS3, Bootstrap 4, Scss, TailwindCss, JavaScript, VueJs, C#
+- Tool: Firebase, Wordpress, Postman, Strapi, MySQL, PostgreSQL, MongoDb, Figma, Photoshop
 
 ## ⏲ Coding time over the last 7 days
 <!--START_SECTION:waka-->
