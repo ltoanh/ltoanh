@@ -23,7 +23,7 @@ a pupil...
 
 ## ⏲ Coding time over the last 7 days
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-696%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-697%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -68,13 +68,16 @@ Sunday                   172 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       1 hr 2 mins         ████████████████████░░░░░   79.28 % 
+Binary                   9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+JSON                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Visual Studio            1 hr 18 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 18 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -90,7 +93,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/12/2023 00:51:30 UTC
+ Last Updated on 13/12/2023 00:50:41 UTC
 <!--END_SECTION:waka-->
 
 ## ⚡ Recent Activity
