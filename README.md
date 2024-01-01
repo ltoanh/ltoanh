@@ -33,7 +33,7 @@ a pupil...
 
 > 📦 375.1 kB Used in GitHub's Storage 
  > 
-> 🏆 29 Contributions in the Year 2023
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -68,8 +68,7 @@ Sunday                   172 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Vue.js                   4 mins              ███████████████████████░░   91.99 % 
-JavaScript               0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+Vue.js                   4 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
 VS Code                  4 mins              █████████████████████████   100.00 % 
@@ -91,7 +90,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2023 00:54:53 UTC
+ Last Updated on 01/01/2024 00:55:51 UTC
 <!--END_SECTION:waka-->
 
 ## ⚡ Recent Activity
