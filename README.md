@@ -35,7 +35,7 @@ a pupil...
  > 
 > 🏆 0 Contributions in the Year 2024
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 16 Public Repositories 
  > 
@@ -90,7 +90,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/02/2024 00:47:41 UTC
+ Last Updated on 13/02/2024 00:47:44 UTC
 <!--END_SECTION:waka-->
 
 ## ⚡ Recent Activity
