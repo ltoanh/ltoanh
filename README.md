@@ -68,13 +68,15 @@ Sunday                   165 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       11 mins             ███████████████░░░░░░░░░░   61.56 % 
+Binary                   7 mins              █████████░░░░░░░░░░░░░░░░   37.47 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Visual Studio            19 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  19 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -90,7 +92,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/06/2025 01:27:03 UTC
+ Last Updated on 02/06/2025 01:16:58 UTC
 <!--END_SECTION:waka-->
 
 ## ⚡ Recent Activity
