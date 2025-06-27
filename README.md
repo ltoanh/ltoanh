@@ -33,6 +33,8 @@ a pupil...
 
 > 📦 375.3 kB Used in GitHub's Storage 
  > 
+> 🏆 20 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 18 Public Repositories 
@@ -66,14 +68,13 @@ Sunday                   165 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Git Config               11 mins             ████████████████░░░░░░░░░   63.24 % 
-C#                       6 mins              █████████░░░░░░░░░░░░░░░░   36.76 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -89,7 +90,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/06/2025 01:15:19 UTC
+ Last Updated on 27/06/2025 01:16:21 UTC
 <!--END_SECTION:waka-->
 
 ## ⚡ Recent Activity
