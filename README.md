@@ -31,7 +31,7 @@ a pupil...
 
 **🐱 My GitHub Data** 
 
-> 📦 375.3 kB Used in GitHub's Storage 
+> 📦 375.4 kB Used in GitHub's Storage 
  > 
 > 🏆 20 Contributions in the Year 2025
  > 
@@ -68,13 +68,17 @@ Sunday                   165 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   6 mins              ███████░░░░░░░░░░░░░░░░░░   28.55 % 
+Markdown                 5 mins              ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
+Text                     3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+Bash                     3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+Other                    2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  21 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  21 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -90,7 +94,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/06/2025 01:20:29 UTC
+ Last Updated on 01/07/2025 01:24:09 UTC
 <!--END_SECTION:waka-->
 
 ## ⚡ Recent Activity
