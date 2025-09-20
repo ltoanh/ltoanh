@@ -23,8 +23,6 @@ a pupil...
 
 ## ⏲ Coding time over the last 7 days
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-731%20hrs%2019%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-312.2%20thousand%20lines%20of%20code-blue)
@@ -41,42 +39,6 @@ a pupil...
  > 
 > 🔑 20 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                180 commits         ██████░░░░░░░░░░░░░░░░░░░   23.78 % 
-🌆 Daytime                279 commits         █████████░░░░░░░░░░░░░░░░   36.86 % 
-🌃 Evening                244 commits         ████████░░░░░░░░░░░░░░░░░   32.23 % 
-🌙 Night                  54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-Tuesday                  52 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
-Wednesday                35 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-Thursday                 199 commits         ███████░░░░░░░░░░░░░░░░░░   26.29 % 
-Friday                   74 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-Saturday                 145 commits         █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
-Sunday                   165 commits         █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -90,7 +52,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/09/2025 01:09:42 UTC
+ Last Updated on 20/09/2025 01:05:55 UTC
 <!--END_SECTION:waka-->
 
 ## ⚡ Recent Activity
