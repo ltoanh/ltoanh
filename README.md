@@ -9,7 +9,7 @@ a pupil...
 
 👩‍🎓 I'm graduated student at Posts and Telecommunications Institute of Technology (PTIT Hanoi), Vietnam
 
-🌱 I'm currently learning **Backend developer**
+🌱 I'm currently **Fullstack developer**
 
 👯‍♀️ I'm looking to collaborate with everyone who want to become full-stack developer
 
