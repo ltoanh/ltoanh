@@ -11,7 +11,7 @@ a pupil...
 
 🌱 I'm currently **Fullstack developer**
 
-👯‍♀️ I'm looking to collaborate with everyone who want to become full-stack developer
+👯‍♀️ I'm looking to collaborate with everyone who want to become Solotion Artchitech
 
 💬 Ask me about everything...
 
