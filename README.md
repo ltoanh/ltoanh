@@ -23,36 +23,74 @@ a pupil...
 
 ## ⏲ Coding time over the last 7 days
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-731%20hrs%2019%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-312.2%20thousand%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-313.4%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 375.4 kB Used in GitHub's Storage 
  > 
-> 🏆 20 Contributions in the Year 2025
+> 🏆 27 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
 > 📜 18 Public Repositories 
  > 
-> 🔑 20 Private Repositories 
+> 🔑 21 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                180 commits         ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
+🌆 Daytime                284 commits         █████████░░░░░░░░░░░░░░░░   37.27 % 
+🌃 Evening                244 commits         ████████░░░░░░░░░░░░░░░░░   32.02 % 
+🌙 Night                  54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+Tuesday                  52 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+Wednesday                35 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+Thursday                 199 commits         ███████░░░░░░░░░░░░░░░░░░   26.12 % 
+Friday                   74 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+Saturday                 145 commits         █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
+Sunday                   170 commits         ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               15 repos            ██████████░░░░░░░░░░░░░░░   40.54 % 
-Java                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-C#                       4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-Vue                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+JavaScript               15 repos            ██████████░░░░░░░░░░░░░░░   39.47 % 
+C#                       5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Java                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Vue                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 ```
 
 
 
 
- Last Updated on 28/09/2025 01:15:03 UTC
+ Last Updated on 29/09/2025 01:10:36 UTC
 <!--END_SECTION:waka-->
 
 ## ⚡ Recent Activity
