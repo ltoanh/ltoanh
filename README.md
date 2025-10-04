@@ -23,15 +23,17 @@ a pupil...
 
 ## ⏲ Coding time over the last 7 days
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-731%20hrs%2039%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-313.8%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-316.3%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 375.4 kB Used in GitHub's Storage 
+> 📦 375.6 kB Used in GitHub's Storage 
  > 
-> 🏆 34 Contributions in the Year 2025
+> 🏆 40 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -39,6 +41,47 @@ a pupil...
  > 
 > 🔑 21 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                180 commits         ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
+🌆 Daytime                284 commits         █████████░░░░░░░░░░░░░░░░   36.79 % 
+🌃 Evening                249 commits         ████████░░░░░░░░░░░░░░░░░   32.25 % 
+🌙 Night                  59 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+Tuesday                  52 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+Wednesday                40 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+Thursday                 199 commits         ██████░░░░░░░░░░░░░░░░░░░   25.78 % 
+Friday                   74 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+Saturday                 150 commits         █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
+Sunday                   170 commits         ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+C#                       17 mins             █████████████████████░░░░   83.70 % 
+Markdown                 3 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+
+🔥 Editors: 
+Visual Studio            17 mins             █████████████████████░░░░   83.79 % 
+VS Code                  3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+
+💻 Operating System: 
+Windows                  20 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -52,7 +95,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2025 01:08:00 UTC
+ Last Updated on 04/10/2025 01:04:38 UTC
 <!--END_SECTION:waka-->
 
 ## ⚡ Recent Activity
