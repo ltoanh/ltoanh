@@ -23,9 +23,11 @@ a pupil...
 
 ## ⏲ Coding time over the last 7 days
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-735%20hrs%2017%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-316.33%20thousand%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-316.33%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -39,6 +41,43 @@ a pupil...
  > 
 > 🔑 21 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                180 commits         ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
+🌆 Daytime                284 commits         █████████░░░░░░░░░░░░░░░░   36.69 % 
+🌃 Evening                249 commits         ████████░░░░░░░░░░░░░░░░░   32.17 % 
+🌙 Night                  61 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+Tuesday                  52 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+Wednesday                40 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+Thursday                 199 commits         ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
+Friday                   74 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+Saturday                 152 commits         █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
+Sunday                   170 commits         █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+Markdown                 18 mins             ████████████████░░░░░░░░░   64.73 % 
+YAML                     10 mins             █████████░░░░░░░░░░░░░░░░   35.27 % 
+
+🔥 Editors: 
+VS Code                  28 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  28 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -52,7 +91,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2026 01:27:53 UTC
+ Last Updated on 06/01/2026 01:19:55 UTC
 <!--END_SECTION:waka-->
 
 ## ⚡ Recent Activity
