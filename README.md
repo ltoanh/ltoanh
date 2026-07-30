@@ -23,6 +23,10 @@ a pupil...
 
 ## ⏲ Coding time over the last 7 days
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-695%20hrs%2044%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-14%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-320.23%20thousand%20lines%20of%20code-blue?style=flat)
@@ -94,7 +98,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/07/2026 02:06:19 UTC
+ Last Updated on 30/07/2026 01:56:10 UTC
 <!--END_SECTION:waka-->
 
 ## ⚡ Recent Activity
